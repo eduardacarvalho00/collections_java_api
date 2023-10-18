@@ -1,4 +1,4 @@
-package main.java.org.miawe.BasicOperations;
+package main.java.org.miawe.list.BasicOperations;
 
 import java.util.ArrayList;
 import java.util.List;

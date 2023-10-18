@@ -1,4 +1,4 @@
-package main.java.org.miawe.Sorting;
+package main.java.org.miawe.list.Sorting;
 
 import java.util.Comparator;
 

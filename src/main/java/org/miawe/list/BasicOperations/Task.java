@@ -1,4 +1,4 @@
-package main.java.org.miawe.BasicOperations;
+package main.java.org.miawe.list.BasicOperations;
 
 public class Task {
     private String description;

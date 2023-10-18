@@ -1,6 +1,4 @@
-package main.java.org.miawe.Search;
-
-import main.java.org.miawe.BasicOperations.Task;
+package main.java.org.miawe.list.Search;
 
 import java.util.ArrayList;
 import java.util.List;

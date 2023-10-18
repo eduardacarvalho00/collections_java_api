@@ -1,4 +1,4 @@
-package main.java.org.miawe.Search;
+package main.java.org.miawe.list.Search;
 
 public class Book {
     private String title;
